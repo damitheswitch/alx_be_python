@@ -11,6 +11,6 @@ def perform_operation(num1: float, num2: float, operation: str) -> float:
             if num2 != 0:
                 return num1 / num2
             else:
-                return float("nan")
+                return float('nan')
 
 
